@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jshint": "^2.9.5",
+    "node-lifx": "^0.8.0"
+  }
+}
